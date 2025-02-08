@@ -1,6 +1,6 @@
 # Security Policy
 
-The Solidity team and community take all security bugs in Solidity seriously.
+The Solidity team and  take all security bugs in Solidity seriously.
 We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
 
 ## Scope
